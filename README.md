@@ -12,6 +12,8 @@ start: cd server -> npm run dev
 
 
 <------------- Output screenshots ------------->
+
+
 [First Page (1)](https://github.com/sagarxjadhav/PaymentGetway/assets/93977940/2ff15329-a0b9-4d8e-ba28-9946e9cac42c)
 [Payment Opening (2)](https://github.com/sagarxjadhav/PaymentGetway/assets/93977940/18af1adb-8361-4cc6-ab1f-7bc3e78c8edc)
 [Payment done (3)](https://github.com/sagarxjadhav/PaymentGetway/assets/93977940/2026cb77-15ae-421a-a6b1-8ace8c277ecb)
